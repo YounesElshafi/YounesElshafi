@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes Elshafi</h1>
 <h3 align="center">AI & Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently improving my skills in machine learning, deep learning, computer vision, and data analysis  
+- 🌱 I’m currently improving my skills in machine learning, deep learning, computer vision, NLP, and data analysis  
 - 💬 Ask me about: Python, scikit-learn, pandas, streamlit, building ML solutions  
 - 📫 Reach me: younes.ai.dev@gmail.com  
 
