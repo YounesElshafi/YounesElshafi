@@ -23,14 +23,3 @@
 </p>
 
 ---
-
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounesElshafi&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YounesElshafi&theme=tokyonight" />
-</p>
-
----
-
-## 🔬 ML Projects – Coming Soon...
